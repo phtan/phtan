@@ -4,7 +4,7 @@ Here on Github, you can see how I have contributed to my original programs 🌱,
 
 ---
 
-🔭 I have duplicated my original programs on Codeberg: [https://codeberg.org/phtan](https://codeberg.org/phtan)
+🔭 I have duplicated my original programs, on Codeberg: [https://codeberg.org/phtan](https://codeberg.org/phtan)
 <!--
 **phtan/phtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
