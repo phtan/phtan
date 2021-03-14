@@ -7,7 +7,9 @@ Here on Github, you can see how I have contributed to my original programs 🌱,
 I have duplicated my original programs, on Codeberg: [https://codeberg.org/phtan](https://codeberg.org/phtan)
 
 
-<script src="https://liberapay.com/phtan/widgets/receiving.js"></script>
+<img src="https://img.shields.io/liberapay/receives/phtan.svg?logo=liberapay">
+
+
 
 
 <!--
