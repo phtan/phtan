@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-Here on Github, you can see how I have contributed to my original programs 🌱, as well as others' programs 👯.
-
-
 <img src="https://img.shields.io/liberapay/receives/phtan.svg?logo=liberapay">
 
+Here on Github, you can see how I have contributed to my original programs 🌱, as well as others' programs 👯.
 
 ---
 
