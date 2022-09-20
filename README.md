@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hello, stranger ☕
 
-
-Here on Github, you can see how I have contributed to my original programs 🌱, as well as others' programs 👯.
 
 <p>
 A Pull Request that I feel proud of is my contribution 
