@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/liberapay/receives/phtan.svg?logo=liberapay">
+<br />
+<a href='https://ko-fi.com/O4O8EOWEK' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 
 Here on Github, you can see how I have contributed to my original programs 🌱, as well as others' programs 👯.
 
