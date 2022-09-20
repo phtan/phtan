@@ -5,7 +5,7 @@ Here on Github, you can see how I have contributed to my original programs 🌱,
 
 <p>
 A Pull Request that I feel proud of is my contribution 
-to Gitea, an alternative to Github itself:
+to Gitea, which is an alternative to Github itself:
 
 <a href="https://github.com/go-gitea/gitea/pull/3766">
 https://github.com/go-gitea/gitea/pull/3766
