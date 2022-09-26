@@ -2,11 +2,12 @@
 
 
 <p>
-A Pull Request that I feel proud of is my contribution 
-to Gitea, which is an alternative to Github itself:
+I feel proud of contributing 
+to Gitea (which is an alternative to Github itself). 
+You may view more details at: 
 
-<a href="https://github.com/go-gitea/gitea/pull/3766">
-https://github.com/go-gitea/gitea/pull/3766
+<a href="https://github.com/go-gitea/gitea/commits?author=phtan">
+https://github.com/go-gitea/gitea/commits?author=phtan
 </a>
 <p>
 <p>
