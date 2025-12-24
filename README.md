@@ -2,9 +2,9 @@
 
 
 <p>
-I feel proud of contributing 
+I have contributed 
 to Gitea (which is an alternative to Github itself). 
-You may view more details at: 
+You may view more details of my little efforts, through the following link: 
 
 <a href="https://github.com/go-gitea/gitea/commits?author=phtan">
 https://github.com/go-gitea/gitea/commits?author=phtan
